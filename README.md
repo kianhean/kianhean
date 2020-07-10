@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### Currently SRE at Trading Technologies ★ Experienced Python Developer 🧪 in ReactJS Golang ★ Certified AWS☁️SA/SysOps/Dev-Associate
+#### Currently SRE at Trading Technologies 
+#### Experienced Python Developer 🧪 in ReactJS Golang ⭐ Certified AWS☁️SA/SysOps/Dev-Associate
 
 Finance professional with more than 8 years of experience in the Index/ETF space. Passionate Python Developer with over 5 years of professional experience building valuation/trading algorithms and systems. 1+ year experience building ReactJs Dashboards. Thrives in environments with strong principles of modern Agile, TDD, CI/CD and Cloud Adoption.
 
