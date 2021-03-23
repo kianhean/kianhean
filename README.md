@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-#### Currently SRE at Trading Technologies 
-#### Experienced Python Developer 🧪 in ReactJS Golang ⭐ Certified AWS☁️SA/SysOps/Dev-Associate
+#### Currently Senior SRE at Trading Technologies
+#### 💻 Full Stack Developer ⚙️ >7yrs Python 🌎 >1yr ReactJS ☁️ Certified AWS SA/SysOps/Dev Associate
 
-Finance professional with more than 8 years of experience in the Index/ETF space. Passionate Python Developer with over 5 years of professional experience building valuation/trading algorithms and systems. 1+ year experience building ReactJs Dashboards. Thrives in environments with strong principles of modern Agile, TDD, CI/CD and Cloud Adoption.
+Finance professional with 10 years of experience in the Finance/Fintech space stretching from ETFs/Benchmarking to Low Latency Trading. Passionate Full Stack Developer with over 7 years of professional experience building cloud/on-premise systems in Python. 1+ years’ experience building React Web Apps powered by GQL. Holds all 3 associate level AWS Certifications
 
 Familiarity with a range of computational languages, frameworks and cloud infrastructure:
 
-- 5+ years Python using Frameworks such as Pandas/Numpy/Django/Flask
-- 2 + years Amazon Webservices (AWS CSA/Dev/Sysops Certified)
-- 1 + years ReactJS
+- 7 years Python using Frameworks such as Pandas/Numpy/Django/Flask
+- 1 years ReactJS/GraphQL
+- 3 years Amazon Webservices (AWS CSA/Dev/Sysops Certified)
 
 LinkedIn Profile
 www.linkedin.com/in/kianhean
